@@ -1,0 +1,2 @@
+/data/01.cmake/parse_str/build/CMakeFiles/edit_cache.dir
+/data/01.cmake/parse_str/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/data/01.cmake/add_custom_target/build/CMakeFiles/generate_file.dir
+/data/01.cmake/add_custom_target/build/CMakeFiles/run_script.dir
+/data/01.cmake/add_custom_target/build/CMakeFiles/edit_cache.dir
+/data/01.cmake/add_custom_target/build/CMakeFiles/rebuild_cache.dir

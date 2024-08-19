@@ -1,0 +1,9 @@
+cd MyProject/
+rm -rf build/
+rm -rf install/
+mkdir build
+cd build/
+cmake -DCMAKE_INSTALL_PREFIX=/data/01.cmake/MyProject/install ..
+cmake --build .
+cmake --install .
+

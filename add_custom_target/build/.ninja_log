@@ -1,0 +1,5 @@
+# ninja log v5
+1	6	0	CMakeFiles/generate_file	42ee0b24390bef5f
+1	6	0	/data/01.cmake/add_custom_target/build/CMakeFiles/generate_file	42ee0b24390bef5f
+7	13	0	CMakeFiles/run_script	531d198307b0f3b0
+7	13	0	/data/01.cmake/add_custom_target/build/CMakeFiles/run_script	531d198307b0f3b0

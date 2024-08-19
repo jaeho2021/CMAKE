@@ -1,0 +1,3 @@
+/data/01.cmake/compile_langage/build/CMakeFiles/main.dir
+/data/01.cmake/compile_langage/build/CMakeFiles/edit_cache.dir
+/data/01.cmake/compile_langage/build/CMakeFiles/rebuild_cache.dir

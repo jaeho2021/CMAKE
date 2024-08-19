@@ -1,0 +1,8 @@
+/data/01.cmake/MyProject/build/CMakeFiles/MyLibrary.dir
+/data/01.cmake/MyProject/build/CMakeFiles/MyLibrary_ext.dir
+/data/01.cmake/MyProject/build/CMakeFiles/edit_cache.dir
+/data/01.cmake/MyProject/build/CMakeFiles/rebuild_cache.dir
+/data/01.cmake/MyProject/build/CMakeFiles/list_install_components.dir
+/data/01.cmake/MyProject/build/CMakeFiles/install.dir
+/data/01.cmake/MyProject/build/CMakeFiles/install/local.dir
+/data/01.cmake/MyProject/build/CMakeFiles/install/strip.dir

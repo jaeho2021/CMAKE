@@ -1,0 +1,4 @@
+/data/01.cmake/TARGET_PROPERTY/build/CMakeFiles/my_library.dir
+/data/01.cmake/TARGET_PROPERTY/build/CMakeFiles/my_executable.dir
+/data/01.cmake/TARGET_PROPERTY/build/CMakeFiles/edit_cache.dir
+/data/01.cmake/TARGET_PROPERTY/build/CMakeFiles/rebuild_cache.dir

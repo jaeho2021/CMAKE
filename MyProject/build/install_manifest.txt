@@ -1,0 +1,9 @@
+/data/01.cmake/MyProject/install/lib/libMyLibrary.a
+/data/01.cmake/MyProject/install/include/MyLibrary/MyLibrary.h
+/data/01.cmake/MyProject/install/include/MyLibrary_ext/MyLibrary_ext.h
+/data/01.cmake/MyProject/install/lib/libMyLibrary_ext.a
+/data/01.cmake/MyProject/install/include/MyLibrary_ext.h
+/data/01.cmake/MyProject/install/lib/cmake/MyLibrary/MyLibraryConfig.cmake
+/data/01.cmake/MyProject/install/lib/cmake/MyLibrary/MyLibraryConfigVersion.cmake
+/data/01.cmake/MyProject/install/lib/cmake/MyLibrary/MyLibraryTargets.cmake
+/data/01.cmake/MyProject/install/lib/cmake/MyLibrary/MyLibraryTargets-noconfig.cmake

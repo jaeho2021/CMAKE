@@ -1,0 +1,12 @@
+function(set_compiler_property)
+  set(options APPEND)
+  set(multi_args  PROPERTY)
+  cmake_parse_arguments(COMPILER_PROPERTY "${options}" "${single_args}" "${multi_args}" ${ARGN})
+  if(COMPILER_PROPERTY_APPEND)
+   set(APPEND "APPEND")
+   set(APPEND-CPP "APPEND")
+  endif()
+
+  set_property(TARGET compiler ${APPEND} PROPERTY ${COMPILER_PROPERTY_PROPERTY})
+  set_property(TARGET compiler-cpp ${APPEND} PROPERTY ${COMPILER_PROPERTY_PROPERTY})
+endfunction()

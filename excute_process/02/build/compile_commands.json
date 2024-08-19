@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/data/01.cmake/excute_process/02/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/MyApp.dir/src/main.cpp.o -c /data/01.cmake/excute_process/02/src/main.cpp",
+  "file": "/data/01.cmake/excute_process/02/src/main.cpp",
+  "output": "CMakeFiles/MyApp.dir/src/main.cpp.o"
+}
+]

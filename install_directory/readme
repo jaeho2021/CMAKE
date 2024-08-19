@@ -1,0 +1,4 @@
+cd build
+cmake .. -DCMAKE_INSTALL_PREFIX=/data/01.cmake/install_directory/install
+cmake --build .
+cmake --install .

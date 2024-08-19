@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMyLibrary_ext.a CMakeFiles/MyLibrary_ext.dir/src/MyLibrary_ext.cpp.o
+/usr/bin/ranlib libMyLibrary_ext.a

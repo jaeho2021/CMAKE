@@ -1,0 +1,3 @@
+cmake -DCMAKE_INSTALL_PREFIX=/data/01.cmake/static_add_library/install ..
+cmake --build .
+cmake --install .

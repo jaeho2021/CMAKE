@@ -1,0 +1,6 @@
+/data/01.cmake/IMACROS/2/build/CMakeFiles/compiler.dir
+/data/01.cmake/IMACROS/2/build/CMakeFiles/compiler-cpp.dir
+/data/01.cmake/IMACROS/2/build/CMakeFiles/main.dir
+/data/01.cmake/IMACROS/2/build/CMakeFiles/print_properties.dir
+/data/01.cmake/IMACROS/2/build/CMakeFiles/edit_cache.dir
+/data/01.cmake/IMACROS/2/build/CMakeFiles/rebuild_cache.dir
